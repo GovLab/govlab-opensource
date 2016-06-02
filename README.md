@@ -1,6 +1,4 @@
-# govlab-opensource-banner
-
-
+# govlab-opensource
 
 ###Use this code snippet to add the banner to your page:
 
