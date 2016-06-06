@@ -12,6 +12,8 @@ The GovLab is proud to develop our products as open source projects and reuse of
 3. Include the [Powered by GovLab Open Source](https://github.com/GovLab/govlab-opensource) banner in your project/website footer and link through to the GovLab Open Source project page.
 4. We strongly encourage changing the color palette used in our project code in order to suit your needs and help you differentiate your work from ours. 
 
+![GovLab Open Source Banner](https://raw.githubusercontent.com/GovLab/govlab-opensource/master/img/govlab-opensource.png)
+
 > ```
 > <div class="govlab-opensource" style="background-color: #222; padding: 12px 0 15px; text-align: 
 > center; font-family: 'proxima-nova', sans-serif, 'Helvetica Neue', Helvetica, Roboto, Arial, 
