@@ -1,4 +1,4 @@
-# [GovLab Open Source](http://www.thegovlab.org/project-govlab-open-source.html)
+# GovLab Open Source
 
 The GovLab is proud to develop our products as open source projects and reuse of our code is encouraged, though we ask that you observe our usage guidelines:
 
@@ -20,7 +20,8 @@ The GovLab is proud to develop our products as open source projects and reuse of
 > sans-serif;"><a onmouseover="this.style.opacity=1; this.style.transform='scale(1.1)'; this.style.
 > transition='all .7s ease';"onmouseout="this.style.opacity=.3; this.style.transform='scale(1)'; 
 > this.style.transition='all 1s ease'" style="color:#fff; opacity:.3; text-decoration:none; font-size: 
-> 1rem; vertical-align: -3px;border-width:0; display: inline-block;" href="https://github.com/GovLab/govlab-opensource" 
+> 1rem; vertical-align: -3px;border-width:0; display: inline-block;" 
+> href="http://www.thegovlab.org/project-govlab-open-source.html" 
 > target="_blank">Powered by <img style="max-height: 24px; margin-left: 8px;vertical-align: -5px;" 
 > alt="Govlab Open Source" src="https://raw.githubusercontent.com/GovLab/govlab-opensource/master/
 > img/govlab-opensource-white.png"/></a></div>
