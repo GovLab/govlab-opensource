@@ -24,3 +24,6 @@ The GovLab is proud to develop our products as open source projects and reuse of
 > img/govlab-opensource-white.png"/></a></div>
 > ```
 
+
+## About GovLab Open Source
+In keeping with the spirit of openness and collaboration that defines the field of open governance, GovLab Open Source makes accessible the source code of a variety of GovLab technical products. From institutional collaboration platforms to dissemination mechanisms for original research publications, the GovLab’s original technologies can be forked and redeployed through the open source platform GitHub. Through this effort we aim both to amplify the reach and impact of the GovLab’s development efforts, and to provide the field with free, flexible tech solutions for a broad variety of projects, regardless of any direct affiliation with the GovLab. 
