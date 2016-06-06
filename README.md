@@ -1,4 +1,4 @@
-# GovLab Open Source
+# [GovLab Open Source](http://www.thegovlab.org/project-govlab-open-source.html)
 
 The GovLab is proud to develop our products as open source projects and reuse of our code is encouraged, though we ask that you observe our usage guidelines:
 
